@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marcelo Anderson
+- 👀 I’m interested in Learning new things
+- 🌱 I’m currently learning Django and React
+- 💞️ I’m looking to collaborate on Angular and Java projects
+- 📫 How to reach me marcelotrl88@gmail.com
